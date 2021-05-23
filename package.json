@@ -1,6 +1,6 @@
 {
   "name": "@jisaacks/sc-media",
-  "version": "1.0.3",
+  "version": "1.0.5",
   "description": "Media Queries for Styled Components",
   "main": "index.js",
   "repository": "git@github.com:jisaacks/sc-media.git",
@@ -18,6 +18,6 @@
     "test": "exit 0"
   },
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com/@jisaacks"
+    "registry": "https://npm.pkg.github.com"
   }
 }
