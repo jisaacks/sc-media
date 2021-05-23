@@ -1,0 +1,20 @@
+{
+  "name": "@jisaacks/sc-media",
+  "version": "0.0.0",
+  "description": "Media Queries for Styled Components",
+  "main": "index.js",
+  "repository": "git@github.com:jisaacks/sc-media.git",
+  "author": "JD Isaacks",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {},
+  "peerDependencies": {
+    "lodash": "^4.17.21",
+    "react": "^17.0.2",
+    "styled-components": "^5.3.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "jest"
+  }
+}
