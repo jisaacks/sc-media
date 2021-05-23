@@ -16,5 +16,8 @@
   "devDependencies": {},
   "scripts": {
     "test": "exit 0"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/@jisaacks"
   }
 }
