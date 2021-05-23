@@ -1,6 +1,6 @@
 {
   "name": "@jisaacks/sc-media",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Media Queries for Styled Components",
   "main": "index.js",
   "repository": "git@github.com:jisaacks/sc-media.git",
